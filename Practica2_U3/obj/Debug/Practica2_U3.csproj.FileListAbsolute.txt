@@ -1,0 +1,10 @@
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\bin\Debug\Practica2_U3.exe.config
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\bin\Debug\Practica2_U3.exe
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\bin\Debug\Practica2_U3.pdb
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.csproj.AssemblyReference.cache
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.Form1.resources
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.Properties.Resources.resources
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.csproj.GenerateResource.cache
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.csproj.CoreCompileInputs.cache
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.exe
+C:\Users\locog\source\repos\Parcial3_U3\Practica2_U3\obj\Debug\Practica2_U3.pdb
